@@ -1,7 +1,13 @@
 body {
-    background-color :rgb(121, 7, 15);
+    background-color :rgb(140, 212, 218);
 }
 h1{
     background-color: black;
     color: aliceblue;
+}
+h2{
+    color: brown;
+}
+p{
+    color: cadetblue;
 }
